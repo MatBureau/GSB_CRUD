@@ -1,0 +1,17 @@
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_DAO\bin\Debug\net6.0\DLL_DAO.deps.json
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_DAO\bin\Debug\net6.0\DLL_DAO.dll
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_DAO\bin\Debug\net6.0\DLL_DAO.pdb
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_DAO\bin\Debug\net6.0\DLL_Modele.dll
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_DAO\bin\Debug\net6.0\DLL_Modele.pdb
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_DAO\obj\Debug\net6.0\DLL_DAO.csproj.AssemblyReference.cache
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_DAO\obj\Debug\net6.0\DLL_DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_DAO\obj\Debug\net6.0\DLL_DAO.AssemblyInfoInputs.cache
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_DAO\obj\Debug\net6.0\DLL_DAO.AssemblyInfo.cs
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_DAO\obj\Debug\net6.0\DLL_DAO.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_DAO\obj\Debug\net6.0\DLL_DAO.csproj.CopyComplete
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_DAO\obj\Debug\net6.0\DLL_DAO.dll
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_DAO\obj\Debug\net6.0\refint\DLL_DAO.dll
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_DAO\obj\Debug\net6.0\DLL_DAO.pdb
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_DAO\obj\Debug\net6.0\ref\DLL_DAO.dll
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_DAO\bin\Debug\net6.0\DLL_Persistance.dll
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_DAO\bin\Debug\net6.0\DLL_Persistance.pdb

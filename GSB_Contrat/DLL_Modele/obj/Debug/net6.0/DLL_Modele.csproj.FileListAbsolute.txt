@@ -1,0 +1,12 @@
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_Modele\obj\Debug\net6.0\DLL_Modele.csproj.AssemblyReference.cache
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_Modele\obj\Debug\net6.0\DLL_Modele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_Modele\obj\Debug\net6.0\DLL_Modele.AssemblyInfoInputs.cache
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_Modele\obj\Debug\net6.0\DLL_Modele.AssemblyInfo.cs
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_Modele\obj\Debug\net6.0\DLL_Modele.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_Modele\bin\Debug\net6.0\DLL_Modele.deps.json
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_Modele\bin\Debug\net6.0\DLL_Modele.dll
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_Modele\bin\Debug\net6.0\DLL_Modele.pdb
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_Modele\obj\Debug\net6.0\DLL_Modele.dll
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_Modele\obj\Debug\net6.0\refint\DLL_Modele.dll
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_Modele\obj\Debug\net6.0\DLL_Modele.pdb
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_Modele\obj\Debug\net6.0\ref\DLL_Modele.dll

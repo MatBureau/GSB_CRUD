@@ -1,0 +1,20 @@
+﻿DLL_Vues
+1.5.0.2
+
+winexe
+C#
+.cs
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_Vues\obj\Debug\net6.0-windows7.0\
+DLL_Vues
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\mathi\Documents\GitHub\orijets_bureau\Deuxième année\GSB_Contrat\DLL_Vues\App.xaml
+13111889978
+1-1821084834
+15317283018
+224-882617401
+fenetres\FenetresAjout\FEN_AjoutBureau.xaml;fenetres\FenetresAjout\FEN_AjoutClient.xaml;fenetres\FenetresAjout\FEN_AjoutContacter.xaml;fenetres\FenetresAjout\FEN_AjoutExercer.xaml;fenetres\FEN_BlackJack.xaml;fenetres\FEN_Bureau.xaml;fenetres\FEN_Clients.xaml;fenetres\FEN_Contacter.xaml;fenetres\FEN_Contrats.xaml;fenetres\FEN_Exercer.xaml;fenetres\FEN_Interlocuteurs.xaml;fenetres\FEN_Secteurs.xaml;MainWindow.xaml;
+
+False
+

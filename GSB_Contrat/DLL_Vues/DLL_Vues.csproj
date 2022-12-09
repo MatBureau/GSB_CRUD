@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>rickastley.ico</ApplicationIcon>
+    <AssemblyVersion>1.5.0.2</AssemblyVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="rickastley.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dragablz" Version="0.0.3.234" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\TetrisDotNet\TetrisDotNet.csproj" />
+    <ProjectReference Include="..\DLL_Controller\DLL_Controller.csproj" />
+    <ProjectReference Include="..\DLL_DAO\DLL_DAO.csproj" />
+    <ProjectReference Include="..\DLL_Modele\DLL_Modele.csproj" />
+  </ItemGroup>
+
+</Project>

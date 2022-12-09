@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="fenetres\FenetresAjout\FEN_AjoutBureau.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="fenetres\FenetresAjout\FEN_AjoutClient.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="fenetres\FenetresAjout\FEN_AjoutContacter.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="fenetres\FenetresAjout\FEN_AjoutExercer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="fenetres\FEN_BlackJack.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="fenetres\FEN_Bureau.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="fenetres\FEN_Clients.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="fenetres\FEN_Contacter.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="fenetres\FEN_Contrats.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="fenetres\FEN_Exercer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="fenetres\FEN_Interlocuteurs.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="fenetres\FEN_Secteurs.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="fenetres\FenetresAjout\FEN_AjoutBureau.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="fenetres\FenetresAjout\FEN_AjoutClient.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="fenetres\FenetresAjout\FEN_AjoutContacter.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="fenetres\FenetresAjout\FEN_AjoutExercer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="fenetres\FEN_BlackJack.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="fenetres\FEN_Bureau.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="fenetres\FEN_Clients.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="fenetres\FEN_Contacter.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="fenetres\FEN_Contrats.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="fenetres\FEN_Exercer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="fenetres\FEN_Interlocuteurs.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="fenetres\FEN_Secteurs.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

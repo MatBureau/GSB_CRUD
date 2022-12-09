@@ -1,0 +1,61 @@
+CREATE TABLE Bureau(
+   codebureau INT,
+   villebureau VARCHAR(255),
+   pays VARCHAR(255),
+   PRIMARY KEY(codebureau)
+);
+
+CREATE TABLE Client(
+   codeclient INT,
+   raisonsociale VARCHAR(255),
+   adresse VARCHAR(255),
+   PRIMARY KEY(codeclient)
+);
+
+CREATE TABLE interlocuteur(
+   codeinterlocuteur INT,
+   nominterlocuteur VARCHAR(255),
+   PRIMARY KEY(codeinterlocuteur)
+);
+
+CREATE TABLE contrat(
+   refcontrat INT,
+   objetcontrat VARCHAR(255),
+   tauxcommission VARCHAR(255),
+   montantcontrat VARCHAR(255),
+   codebureau INT NOT NULL,
+   codeinterlocuteur INT NOT NULL,
+   codeclient INT NOT NULL,
+   datecontrat DATE,
+   codebureau_1 INT NOT NULL,
+   codeinterlocuteur_1 INT NOT NULL,
+   codeclient_1 INT NOT NULL,
+   PRIMARY KEY(refcontrat),
+   FOREIGN KEY(codebureau_1) REFERENCES Bureau(codebureau),
+   FOREIGN KEY(codeinterlocuteur_1) REFERENCES interlocuteur(codeinterlocuteur),
+   FOREIGN KEY(codeclient_1) REFERENCES Client(codeclient)
+);
+
+CREATE TABLE secteur(
+   codesecteur INT,
+   libellesecteur VARCHAR(255),
+   PRIMARY KEY(codesecteur)
+);
+
+CREATE TABLE Contacter(
+   codebureau INT,
+   codeinterlocuteur INT,
+   datecontact DATE,
+   commentaire VARCHAR(255),
+   PRIMARY KEY(codebureau, codeinterlocuteur, datecontact),
+   FOREIGN KEY(codebureau) REFERENCES Bureau(codebureau),
+   FOREIGN KEY(codeinterlocuteur) REFERENCES interlocuteur(codeinterlocuteur)
+);
+
+CREATE TABLE exercer(
+   codeclient INT,
+   codesecteur INT,
+   PRIMARY KEY(codeclient, codesecteur),
+   FOREIGN KEY(codeclient) REFERENCES Client(codeclient),
+   FOREIGN KEY(codesecteur) REFERENCES secteur(codesecteur)
+);

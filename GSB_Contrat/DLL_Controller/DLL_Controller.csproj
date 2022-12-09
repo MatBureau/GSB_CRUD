@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DLL_DAO\DLL_DAO.csproj" />
+    <ProjectReference Include="..\DLL_Modele\DLL_Modele.csproj" />
+    <ProjectReference Include="..\DLL_Persistance\DLL_Persistance.csproj" />
+  </ItemGroup>
+
+</Project>

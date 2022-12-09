@@ -1,0 +1,442 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Vues\\DLL_Vues.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Controller\\DLL_Controller.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Controller\\DLL_Controller.csproj",
+        "projectName": "DLL_Controller",
+        "projectPath": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Controller\\DLL_Controller.csproj",
+        "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Controller\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mathi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_DAO\\DLL_DAO.csproj": {
+                "projectPath": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_DAO\\DLL_DAO.csproj"
+              },
+              "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Modele\\DLL_Modele.csproj": {
+                "projectPath": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Modele\\DLL_Modele.csproj"
+              },
+              "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Persistance\\DLL_Persistance.csproj": {
+                "projectPath": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Persistance\\DLL_Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_DAO\\DLL_DAO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_DAO\\DLL_DAO.csproj",
+        "projectName": "DLL_DAO",
+        "projectPath": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_DAO\\DLL_DAO.csproj",
+        "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_DAO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mathi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Modele\\DLL_Modele.csproj": {
+                "projectPath": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Modele\\DLL_Modele.csproj"
+              },
+              "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Persistance\\DLL_Persistance.csproj": {
+                "projectPath": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Persistance\\DLL_Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "System.Collections.Concurrent": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Modele\\DLL_Modele.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Modele\\DLL_Modele.csproj",
+        "projectName": "DLL_Modele",
+        "projectPath": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Modele\\DLL_Modele.csproj",
+        "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Modele\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mathi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Collections.Concurrent": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Persistance\\DLL_Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Persistance\\DLL_Persistance.csproj",
+        "projectName": "DLL_Persistance",
+        "projectPath": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Persistance\\DLL_Persistance.csproj",
+        "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mathi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Modele\\DLL_Modele.csproj": {
+                "projectPath": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Modele\\DLL_Modele.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Vues\\DLL_Vues.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Vues\\DLL_Vues.csproj",
+        "projectName": "DLL_Vues",
+        "projectPath": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Vues\\DLL_Vues.csproj",
+        "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Vues\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mathi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows7.0",
+            "projectReferences": {
+              "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Controller\\DLL_Controller.csproj": {
+                "projectPath": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Controller\\DLL_Controller.csproj"
+              },
+              "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_DAO\\DLL_DAO.csproj": {
+                "projectPath": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_DAO\\DLL_DAO.csproj"
+              },
+              "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Modele\\DLL_Modele.csproj": {
+                "projectPath": "C:\\Users\\mathi\\Documents\\GitHub\\orijets_bureau\\Deuxième année\\GSB_Contrat\\DLL_Modele\\DLL_Modele.csproj"
+              },
+              "C:\\Users\\mathi\\Documents\\GitHub\\TetrisDotNet\\TetrisDotNet.csproj": {
+                "projectPath": "C:\\Users\\mathi\\Documents\\GitHub\\TetrisDotNet\\TetrisDotNet.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows7.0",
+          "dependencies": {
+            "Dragablz": {
+              "target": "Package",
+              "version": "[0.0.3.234, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mathi\\Documents\\GitHub\\TetrisDotNet\\TetrisDotNet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mathi\\Documents\\GitHub\\TetrisDotNet\\TetrisDotNet.csproj",
+        "projectName": "TetrisDotNet",
+        "projectPath": "C:\\Users\\mathi\\Documents\\GitHub\\TetrisDotNet\\TetrisDotNet.csproj",
+        "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mathi\\Documents\\GitHub\\TetrisDotNet\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mathi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "NAudio": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
